@@ -7,12 +7,12 @@ snake to consume food while avoiding self-collision and obstacles. The primary
 aim is to grow the snake's length until a collision terminates the game.
 
 <h2>Project Overview</h2>
-2.1. Purpose
+<h3>Purpose</h3>
 The project serves to demonstrate C++ game development using SFML,
 emphasizing critical concepts such as game loops, collision detection, and user
 input handling.
 
-<h2>Features</h2>
+<h3>Features</h3>
 • Four-directional snake movement.<br>
 • Random food generation.<br>
 • Collision detection with walls and the snake's own body.<br>
