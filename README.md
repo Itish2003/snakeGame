@@ -1,4 +1,4 @@
-```Snake Game in C++ with SFML```
+<h1>Snake Game in C++ with SFML</h1>
 
 1. Introduction
 The "Snake Game" is a C++ project developed with the Simple and Fast
